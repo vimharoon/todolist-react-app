@@ -1,7 +1,5 @@
 import React from 'react'
 
-function App() {
+export const App = () => {
   return <div className="App">Test is it working ?</div>
 }
-
-export default App
